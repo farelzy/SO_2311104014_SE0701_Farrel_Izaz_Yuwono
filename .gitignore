@@ -1,0 +1,16 @@
+*.ova
+*.vdi
+*.vmdk
+
+*.log
+*.tmp
+
+.DS_Store
+Thumbs.db
+
+node_modules/
+dist/
+build/
+
+Bahan Sistem Operasi/
+.env
